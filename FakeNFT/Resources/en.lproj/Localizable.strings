@@ -1,0 +1,59 @@
+"Tab.catalog" = "Каталог";
+"Tab.profile" = "Профиль";
+"Tab.statistics" = "Statistics";
+"Catalog.openNft" = "Открыть Nft";
+"Error.network" = "Произошла ошибка сети";
+"Error.unknown" = "Произошла неизвестная ошибка";
+"Error.repeat" = "Повторить";
+"Error.title" = "Ошибка";
+
+//Catalog
+"Catalog.sort" = "Sorting";
+"Catalog.sortByName" = "By name";
+"Catalog.sortByNftCount" = "By Nft count";
+"Catalog.cancel" = "Close";
+
+// Cart
+
+"TabBar.cart" = "Cart";
+"NftCell.price" = "Price";
+"Cart.paymentButton" = "To be paid";
+
+"Delete.warning" = "Sure you want to \nremove the item from cart?";
+"Delete.deleteButton" = "Delete";
+"Delete.cancelButton" = "Return";
+
+"Payment.title" = "Choose a payment method";
+"Payment.agreementLabel" = "By making a purchase, you agree to the terms";
+"Payment.agreementButton" = "User Agreement";
+"Payment.payButton" = "Pay";
+
+"Sorting.title" = "Sorting";
+"Sorting.price" = "By price";
+"Sorting.rating" = "By rating";
+"Sorting.name" = "By name";
+"Sorting.cancelButton" = "Close";
+
+"Success.message" = "Payment successful! Congrats on your purchase!";
+"Success.button" = "Return to the catalog";
+
+"AlertCartError.message" = "Failed to load the shopping cart";
+"AlertDeleteError.message" = "The position could not be deleted. Try again";
+"AlertLoadingCurrenciesError.message" = "Failed to upload payment methods";
+"AlertSelectPaymentMethodError.message" = "Choose a payment method";
+"AlertPayError.message" = "Payment failed";
+"Alert.cancelButton" = "Cancel";
+"Alert.repeatButton" = "Repeat";
+"Alert.okayButton" = "Ok";
+
+"Placeholder.textLabel" = "The cart is empty";
+
+// Statistics
+
+"Statistics.sortAlert.title" = "Sorting";
+"Statistics.sortAlert.name" = "By name";
+"Statistics.sortAlert.rating" = "By Rating";
+"Statistics.sortAlert.close" = "Close";
+"Statistics.Collection.title" = "Collection NFT";
+"Statistics.userCard.website" = "Go to user's site";
+"Statistic.nftCollection.noNft" = "User doesn't have NFT yet";

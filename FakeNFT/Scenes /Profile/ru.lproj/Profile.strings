@@ -1,0 +1,34 @@
+/*
+ Profile.strings
+ FakeNFT
+ 
+ Created by gimon on 07.09.2024.
+ 
+ */
+
+"Profile.myNFT" = "Мои NFT";
+"Profile.NFT" = "NFT";
+"Profile.favoriteNFT" = "Избранные NFT";
+"Profile.about.developer" = "О разработчике";
+"Edit.profile.tittle.name" = "Имя";
+"Edit.profile.tittle.description" = "Описание";
+"Edit.profile.tittle.site" = "Сайт";
+"Edit.profile.tittle.alert" = "Ссылка на изображение";
+"Edit.profile.alert.cancel.button" = "Отмена";
+"Edit.profile.alert.ok.button" = "OK";
+"Edit.profile.alert.placeholder" = "Введите ссылку...";
+"My.NFT.cell.from" = "от";
+"My.NFT.cell.price" = "Цена";
+"My.NFT.empty.NFT" = "У Вас ещё нет NFT";
+"My.NFT.navbar.title" = "Мои NFT";
+"My.NFT.alert.title" = "Сортировка";
+"My.NFT.alert.price" = "По цене";
+"My.NFT.alert.rating" = "По рейтингу";
+"My.NFT.alert.name" = "По названию";
+"My.NFT.alert.close" = "Закрыть";
+"My.NFT.error.alert.message" = "Не удалось загрузить";
+"My.favorites.NFT.empty.NFT" = "У Вас ещё нет избранных NFT";
+"My.favorites.NFT.navbar.title" = "Избранные NFT";
+"My.favorites.NFT.ETH" = "ETH";
+"My.favorites.NFT.error.remove.like.alert.message" = "Ошибка удаления лайка";
+"WebView.alert.message" = "Укажите корректную ссылку";
